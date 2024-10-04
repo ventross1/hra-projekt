@@ -1,8 +1,8 @@
-﻿# duskers kopie
+﻿# Hra na motivy Duskers
 ## Václav Chvátal
 ### github [link](https://github.com/ventross1/hra-projekt)
-Tento projekt se pokusí imitovat funkci ve hře duskers, kde hráč ovládá přes conzoli dveře, drony, atd. premise bude, že hráč má mise, kde musí prohledat opuštěné vesmírné lodě
-Hráč bude moc ovládat drony přes wsad nebo přes konzoli a bude je moc skrz konzoli seskupit, aktivovat ability, využít automatické targetování nepřátel, atd. hráč ještě bude mít možnost přes konzoli zkusit hacknout loď a získat přístup k security systému a další.
+Tento projekt se pokusí imitovat funkci ve hře duskers, kde hráč ovládá přes conzoli dveře, drony, atd. Premise bude, že hráč má mise, kde musí prohledat opuštěné vesmírné lodě
+Hráč bude moc ovládat drony přes wsad nebo přes konzoli a bude je moc skrz konzoli seskupit, aktivovat ability, využít automatické targetování nepřátel, atd. Hráč ještě bude mít možnost přes konzoli zkusit hacknout loď a získat přístup k security systému a další.
 ### prerekvezity
 | prezekvizita |	popis |
 |--------------|----------|
